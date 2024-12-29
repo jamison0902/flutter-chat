@@ -6,7 +6,7 @@ A Flutter application that allows users to chat in real-time, with push notifica
 
 | ![Image 1](01.png) | ![Image 2](02.png) | ![Image 3](03.png) |
 |----------------------|----------------------|----------------------|
-| ![Image 4](04.png) | ![Image 5](05.png) | -------- |
+| ![Image 4](04.png) | ![Image 5](05.png) | 
 
 ## 📋 Description
 
