@@ -13,10 +13,10 @@ A Flutter application that allows users to chat in real-time, with push notifica
 **Chat App** is a real-time messaging application built with Flutter and Firebase, which provides:
 
 - **Real-time chat**: Users can send and receive messages instantly.
-- Push notifications: Receive notifications when a new message is sent.
-- Email authentication: Sign up and log in with email and password using Firebase Authentication.
-- Cloud storage: Store messages and media in Firebase Firestore and Firebase Storage.
-- Secure & scalable: Built with Firebase security rules and scalability in mind.
+- **Push notifications**: Receive notifications when a new message is sent.
+- **Email authentication**: Sign up and log in with email and password using Firebase Authentication.
+- **Cloud storage**: Store messages and media in Firebase Firestore and Firebase Storage.
+- **Secure & scalable**: Built with Firebase security rules and scalability in mind.
 
 
 ## 🛠️ Features
@@ -33,17 +33,13 @@ A Flutter application that allows users to chat in real-time, with push notifica
 4. **Firebase App Check**:
    - Secure the Firebase services with Firebase App Check to prevent unauthorized access.
 
-5. **Image sharing**:
-   - Users can send images in chat using Firebase Storage.
-
-6. **Google Functions**:
+5. **Google Functions**:
    - Custom backend logic powered by Google Functions.
 
 
 ## 📱 Technologies Used
 
 - **Flutter**: Framework for cross-platform development.
-- **Firebase Authentication**: Manage user authentication with email and password.
 - **Firebase Authentication**: Manage user authentication with email and password.
 - **Cloud Firestore**: Real-time database for storing chat messages.
 - **Firebase Cloud Messaging**: Push notifications for real-time updates.
@@ -60,7 +56,7 @@ bash
    git clone https://github.com/jamison0902/flutter-chat.git
 
 2. **Install dependencies**:
-bash
+```bash
    flutter pub get
 
 3. **Set up Firebase**:
@@ -73,5 +69,8 @@ bash
 
 4. **Run the project**:
     
-bash
+```bash
    flutter run
+
+
+   
