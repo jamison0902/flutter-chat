@@ -1,3 +1,17 @@
+// Adicione isto no início do arquivo
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // Dependência do Google Services para Firebase
+        classpath 'com.google.gms:google-services:4.3.15' // Atualize para a versão mais recente, se necessário
+        // Certifique-se de incluir o Gradle apropriado para o Flutter
+        classpath 'com.android.tools.build:gradle:8.1.2'
+    }
+}
+
 allprojects {
     repositories {
         google()
