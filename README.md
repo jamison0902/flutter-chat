@@ -52,12 +52,14 @@ A Flutter application that allows users to chat in real-time, with push notifica
 
 1. **Clone the repository**:
    
-bash
+```bash
    git clone https://github.com/jamison0902/flutter-chat.git
+```
 
 2. **Install dependencies**:
 ```bash
    flutter pub get
+```
 
 3. **Set up Firebase**:
 
@@ -71,6 +73,7 @@ bash
     
 ```bash
    flutter run
+```
 
 
    
