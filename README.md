@@ -1,6 +1,6 @@
-# Favorite Places
+# Chat App with Flutter & Firebase
 
-A Flutter application that allows users to save their favorite places using native device features, such as camera and location.
+A Flutter application that allows users to chat in real-time, with push notifications, email authentication, and backend logic powered by Firebase and Google Functions.
 
 ## 🖼️ Screenshots
 
